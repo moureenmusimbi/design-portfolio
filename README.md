@@ -1,7 +1,7 @@
 design-portfolio/
 │
 ├── birthday-cards/
-│   └── mum_birthday_card.png
+│   └── friends_birthday_card.png
 │
 ├── business-posters/
 │   ├── hair_brand_poster.png
@@ -9,7 +9,6 @@ design-portfolio/
 │
 ├── personal-projects/
 │   ├── hospital_support_poster.png
-│   └── README.md
+│   
 │
-└── README.md
 
